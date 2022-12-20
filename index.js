@@ -3,7 +3,7 @@ function add(arr) {
    arr.forEach(element => {
        num += element;
    });
-   console.log("1chi" + " " + num);
+   console.log("firstone" + " " + num);
 
 }
 add([2,6,7,9]);
